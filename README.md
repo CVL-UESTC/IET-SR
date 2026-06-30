@@ -2,7 +2,7 @@
 
 This repository is an official implementation of the paper "From Local Windows to Adaptive Candidates via Individualized Exploratory: Rethinking Attention for Image Super-Resolution", ECCV, 2026.
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2601.03824-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2601.08341)
+[![arXiv](https://img.shields.io/badge/Arxiv-2601.03824-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2601.08341v2)
 [![Pretrained Models](https://img.shields.io/badge/Pretrained%20Models-AD1C18.svg?logo=Googledrive)](https://drive.google.com/drive/folders/1YzKzkGnpvbbzxarnM1fEPXu0z7ojJQrc?usp=sharing)
 [![Visual Results](https://img.shields.io/badge/Visual%20Results-AD1C18.svg?logo=Googledrive)](https://drive.google.com/drive/folders/1qS8iY-sBZbikDOnDaWNFQehnB99D67rV?usp=sharing)
 
